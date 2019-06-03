@@ -1,0 +1,8 @@
+*.pyc
+*.decodes
+*.inputs
+*.targets
+*.pkl
+*.txt
+coco_caption/*
+*.idea/*
